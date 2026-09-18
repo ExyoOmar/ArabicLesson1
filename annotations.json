@@ -1,0 +1,1754 @@
+[
+    {
+        "id": "ann_1789738579364_54cgg",
+        "page": 1,
+        "text": "تتحلى",
+        "rects": [
+            {
+                "x": 81.12,
+                "y": 11.31,
+                "w": 4.87,
+                "h": 3.22
+            }
+        ],
+        "notes": {
+            "meaning": "test",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789740688418_gv238",
+        "page": 1,
+        "text": "أنزل",
+        "rects": [
+            {
+                "x": 56.45,
+                "y": 57.09,
+                "w": 3.45,
+                "h": 3.3
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "فعل ماضي مبني للمجهول والفاعل ضمير مستتر تقديره هو",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789740712076_pg2q2",
+        "page": 1,
+        "text": "الكاف",
+        "rects": [
+            {
+                "x": 52.69,
+                "y": 57.64,
+                "w": 1.62,
+                "h": 2.51
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "عائدة على سيدنا محمد"
+        }
+    },
+    {
+        "id": "ann_1789740739591_roe1s",
+        "page": 1,
+        "text": "الحق",
+        "rects": [
+            {
+                "x": 40.91,
+                "y": 57.48,
+                "w": 4.67,
+                "h": 2.83
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "المبين لأن أخباره صدق (لا شك فيه)"
+        }
+    },
+    {
+        "id": "ann_1789740758311_0jik2",
+        "page": 1,
+        "text": "لكن",
+        "rects": [
+            {
+                "x": 35.43,
+                "y": 57.56,
+                "w": 5.18,
+                "h": 2.43
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "حرف استدراك (حرف ناسخ)"
+        }
+    },
+    {
+        "id": "ann_1789740776500_kytuw",
+        "page": 1,
+        "text": "أكثر",
+        "rects": [
+            {
+                "x": 82.54,
+                "y": 60.86,
+                "w": 4.16,
+                "h": 2.67
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "اسم (لكن) منصوب",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789740791197_qy8nq",
+        "page": 1,
+        "text": "لا",
+        "rects": [
+            {
+                "x": 76.04,
+                "y": 61.41,
+                "w": 1.73,
+                "h": 1.96
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "لا النافية"
+        }
+    },
+    {
+        "id": "ann_1789740817890_uxyx9",
+        "page": 1,
+        "text": "السماوات",
+        "rects": [
+            {
+                "x": 50.25,
+                "y": 61.56,
+                "w": 5.99,
+                "h": 1.88
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "المصدر المعجمي منها: \"سمو\""
+        }
+    },
+    {
+        "id": "ann_1789740842203_mc9ie",
+        "page": 1,
+        "text": "بغير",
+        "rects": [
+            {
+                "x": 47.41,
+                "y": 61.25,
+                "w": 2.54,
+                "h": 2.36
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "شبه جملة من جار ومجرور",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789740870803_jf3lc",
+        "page": 1,
+        "text": "ثم",
+        "rects": [
+            {
+                "x": 35.63,
+                "y": 60.94,
+                "w": 2.54,
+                "h": 3.06
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "حرف عطف يفيد الترتيب والتراخي"
+        }
+    },
+    {
+        "id": "ann_1789740883398_wfb4x",
+        "page": 1,
+        "text": "استوى",
+        "rects": [
+            {
+                "x": 81.73,
+                "y": 64.63,
+                "w": 4.97,
+                "h": 2.51
+            }
+        ],
+        "notes": {
+            "meaning": "جلس",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789740901663_k5bsp",
+        "page": 1,
+        "text": "ذلّل",
+        "rects": [
+            {
+                "x": 69.34,
+                "y": 64.39,
+                "w": 3.76,
+                "h": 2.91
+            }
+        ],
+        "notes": {
+            "meaning": "ذلّل",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789740923362_fk5ce",
+        "page": 1,
+        "text": "كلّ",
+        "rects": [
+            {
+                "x": 54.72,
+                "y": 64,
+                "w": 2.13,
+                "h": 2.98
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "مبتدأ مرفوع وعلامة رفعه الضمة الظاهرة",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789740939691_cmk1i",
+        "page": 1,
+        "text": "لأجل مسمى",
+        "rects": [
+            {
+                "x": 40.1,
+                "y": 64.47,
+                "w": 9.85,
+                "h": 2.43
+            }
+        ],
+        "notes": {
+            "meaning": "وقت معلوم",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789740959807_y5rh8",
+        "page": 1,
+        "text": "نص محدد",
+        "rects": [
+            {
+                "x": 36.14,
+                "y": 64.55,
+                "w": 4.06,
+                "h": 2.59
+            }
+        ],
+        "notes": {
+            "meaning": "يدبّر - يفصّل",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741125816_8bw8t",
+        "page": 1,
+        "text": "يفصّل",
+        "rects": [
+            {
+                "x": 76.85,
+                "y": 68.16,
+                "w": 4.67,
+                "h": 2.28
+            }
+        ],
+        "notes": {
+            "meaning": "يوضّح",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741167510_k7h2v",
+        "page": 1,
+        "text": "لعلّكم",
+        "rects": [
+            {
+                "x": 66.19,
+                "y": 67.93,
+                "w": 4.26,
+                "h": 2.67
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "حرف ترجّي وتوقّع"
+        }
+    },
+    {
+        "id": "ann_1789741210078_zlend",
+        "page": 1,
+        "text": "توقنون",
+        "rects": [
+            {
+                "x": 51.78,
+                "y": 68.4,
+                "w": 4.97,
+                "h": 2.2
+            }
+        ],
+        "notes": {
+            "meaning": "تؤمنون بلقاء الله عز وجل",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741292573_yr0ta",
+        "page": 1,
+        "text": "مدّ",
+        "rects": [
+            {
+                "x": 35.74,
+                "y": 67.85,
+                "w": 2.94,
+                "h": 2.28
+            }
+        ],
+        "notes": {
+            "meaning": "بسط",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741307476_ks9xh",
+        "page": 1,
+        "text": "جعل",
+        "rects": [
+            {
+                "x": 76.04,
+                "y": 71.77,
+                "w": 4.67,
+                "h": 2.04
+            }
+        ],
+        "notes": {
+            "meaning": "خلق - أوجد",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741362851_hc8ih",
+        "page": 1,
+        "text": "جعل فيها رواسي",
+        "rects": [
+            {
+                "x": 67.72,
+                "y": 71.77,
+                "w": 8.02,
+                "h": 2.2
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": {
+                "mushabbah": "الحبال",
+                "mushabbahBih": "الرواسي",
+                "tool": "محذوفة",
+                "wajh": "شبه الجبال بالمرساة تعمل على تثبيت الأرض"
+            },
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741397098_dncy3",
+        "page": 1,
+        "text": "كلّ",
+        "rects": [
+            {
+                "x": 56.75,
+                "y": 71.22,
+                "w": 1.93,
+                "h": 2.91
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "اسم مجرور وعلامة جره الكسرة",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741414541_r507c",
+        "page": 1,
+        "text": "الثمرات",
+        "rects": [
+            {
+                "x": 48.73,
+                "y": 71.54,
+                "w": 6.19,
+                "h": 2.59
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "مضاف اليه مجرور",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741431578_lplwt",
+        "page": 1,
+        "text": "زوجين",
+        "rects": [
+            {
+                "x": 35.94,
+                "y": 71.54,
+                "w": 5.08,
+                "h": 2.36
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "مفعول به منصوب",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741447988_qgygw",
+        "page": 1,
+        "text": "اثنين",
+        "rects": [
+            {
+                "x": 82.64,
+                "y": 74.91,
+                "w": 3.96,
+                "h": 2.43
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "نعت منصوب",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741490140_rxjpx",
+        "page": 1,
+        "text": "يغشي الليل النهار",
+        "rects": [
+            {
+                "x": 68.43,
+                "y": 74.76,
+                "w": 14.01,
+                "h": 2.59
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": {
+                "mushabbah": "الليل",
+                "mushabbahBih": "الغشاء",
+                "tool": "محذوف",
+                "wajh": "شبه الليل بغشاء يحجب ضوء النهار فيصير مظلماً"
+            },
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741530304_w20ot",
+        "page": 1,
+        "text": "ذلك",
+        "rects": [
+            {
+                "x": 60.51,
+                "y": 74.99,
+                "w": 3.55,
+                "h": 2.28
+            }
+        ],
+        "notes": {
+            "meaning": "ما ذكر مسبقاً",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741548131_phyuz",
+        "page": 1,
+        "text": "لأيات",
+        "rects": [
+            {
+                "x": 55.43,
+                "y": 74.76,
+                "w": 4.37,
+                "h": 2.59
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "شبه جملة من جار ومجرور",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741564661_1dgyb",
+        "page": 1,
+        "text": "يتفكرون",
+        "rects": [
+            {
+                "x": 43.45,
+                "y": 75.15,
+                "w": 6.9,
+                "h": 2.43
+            }
+        ],
+        "notes": {
+            "meaning": "يتدبرون - يتأملون",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741594524_hvatr",
+        "page": 1,
+        "text": "وفي الأرض",
+        "rects": [
+            {
+                "x": 81.52,
+                "y": 78.29,
+                "w": 5.48,
+                "h": 2.12
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "شبه جملة من جار ومجرور مبني في محل رفع خبر مقدم",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741611805_dmt56",
+        "page": 1,
+        "text": "قطع",
+        "rects": [
+            {
+                "x": 77.77,
+                "y": 78.06,
+                "w": 3.35,
+                "h": 2.91
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "مبتدأ مؤخر مرفوع وعلامة رفعه الضمة",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741631570_ze2uy",
+        "page": 1,
+        "text": "متجاورات",
+        "rects": [
+            {
+                "x": 69.75,
+                "y": 78.37,
+                "w": 7.31,
+                "h": 2.04
+            }
+        ],
+        "notes": {
+            "meaning": "متلاصقات",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741649199_tzuey",
+        "page": 1,
+        "text": "وزرع",
+        "rects": [
+            {
+                "x": 50.86,
+                "y": 78.37,
+                "w": 3.76,
+                "h": 2.2
+            }
+        ],
+        "notes": {
+            "meaning": "مختلف أنواع المزروعات",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741667637_t6dem",
+        "page": 1,
+        "text": "الأكل",
+        "rects": [
+            {
+                "x": 39.09,
+                "y": 81.59,
+                "w": 6.8,
+                "h": 2.67
+            }
+        ],
+        "notes": {
+            "meaning": "الطعم",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741798296_2kcst",
+        "page": 2,
+        "text": "لام المزحلقة",
+        "rects": [
+            {
+                "x": 75.23,
+                "y": 4.79,
+                "w": 1.83,
+                "h": 2.2
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "لام المزحلقة",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741835156_nnj8z",
+        "page": 2,
+        "text": "إن",
+        "rects": [
+            {
+                "x": 47.72,
+                "y": 5.03,
+                "w": 2.13,
+                "h": 2.51
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "إن شرطية للإقناع , الخطاب موجّه للرسول",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741847879_pm942",
+        "page": 2,
+        "text": "الألف",
+        "rects": [
+            {
+                "x": 79.7,
+                "y": 8.32,
+                "w": 1.32,
+                "h": 1.57
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "حرف استفهام",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741927131_i7t0r",
+        "page": 2,
+        "text": "الأغلال في أعناقهم",
+        "rects": [
+            {
+                "x": 57.97,
+                "y": 11.62,
+                "w": 16.14,
+                "h": 2.59
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "إمعاناً في اذلالهم"
+        }
+    },
+    {
+        "id": "ann_1789741950658_w4zz0",
+        "page": 2,
+        "text": "أصحاب النار",
+        "rects": [
+            {
+                "x": 40.51,
+                "y": 11.54,
+                "w": 9.64,
+                "h": 2.28
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "جزاء من ينكر البعث"
+        }
+    },
+    {
+        "id": "ann_1789741971166_6eklh",
+        "page": 2,
+        "text": "قد",
+        "rects": [
+            {
+                "x": 44.06,
+                "y": 15.39,
+                "w": 3.55,
+                "h": 1.96
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "حرف تحقيق يفيد التوكيد"
+        }
+    },
+    {
+        "id": "ann_1789741981163_7gq4p",
+        "page": 2,
+        "text": "خلت",
+        "rects": [
+            {
+                "x": 37.66,
+                "y": 15.31,
+                "w": 5.79,
+                "h": 2.12
+            }
+        ],
+        "notes": {
+            "meaning": "مضت",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789741998878_hlv6c",
+        "page": 2,
+        "text": "المثلات",
+        "rects": [
+            {
+                "x": 73.81,
+                "y": 18.77,
+                "w": 6.19,
+                "h": 2.12
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "فاعل مرفوع",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742021672_q1hft",
+        "page": 2,
+        "text": "مغفرة",
+        "rects": [
+            {
+                "x": 57.06,
+                "y": 18.85,
+                "w": 5.89,
+                "h": 2.12
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "مضاف اليه مجرور",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742046976_5u1v2",
+        "page": 2,
+        "text": "الذين",
+        "rects": [
+            {
+                "x": 59.8,
+                "y": 22.22,
+                "w": 3.96,
+                "h": 2.36
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "اسم موصول مبني في محل رفع فاعل",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742065697_r4jbs",
+        "page": 2,
+        "text": "لولا",
+        "rects": [
+            {
+                "x": 50.46,
+                "y": 22.07,
+                "w": 3.86,
+                "h": 2.28
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "حرف تخصيص وحث",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742077503_gzydu",
+        "page": 2,
+        "text": "أية",
+        "rects": [
+            {
+                "x": 37.77,
+                "y": 22.22,
+                "w": 4.26,
+                "h": 2.51
+            }
+        ],
+        "notes": {
+            "meaning": "علامة",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742093798_2m7tf",
+        "page": 2,
+        "text": "إنما",
+        "rects": [
+            {
+                "x": 77.97,
+                "y": 25.68,
+                "w": 3.65,
+                "h": 2.43
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "أداة حصر"
+        }
+    },
+    {
+        "id": "ann_1789742142520_0tidr",
+        "page": 2,
+        "text": "وما تغيض الأرحام",
+        "rects": [
+            {
+                "x": 67.01,
+                "y": 29.37,
+                "w": 14.82,
+                "h": 2.59
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": {
+                "mushabbah": "الأرحام",
+                "mushabbahBih": "غيض الماء",
+                "tool": "محذوف",
+                "wajh": "شبه الإجهاض بالماء الذي يغيض"
+            },
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742158760_hnzfn",
+        "page": 2,
+        "text": "بمقدار",
+        "rects": [
+            {
+                "x": 38.88,
+                "y": 28.9,
+                "w": 5.89,
+                "h": 2.75
+            }
+        ],
+        "notes": {
+            "meaning": "لا تتقدم ولا تتأخر",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742172508_b03f5",
+        "page": 2,
+        "text": "الشهادة",
+        "rects": [
+            {
+                "x": 68.22,
+                "y": 32.59,
+                "w": 6.8,
+                "h": 2.51
+            }
+        ],
+        "notes": {
+            "meaning": "المعروف",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742185062_w7d1w",
+        "page": 2,
+        "text": "المتعال",
+        "rects": [
+            {
+                "x": 53.6,
+                "y": 32.59,
+                "w": 6.9,
+                "h": 2.43
+            }
+        ],
+        "notes": {
+            "meaning": "المترفع فوق عباده",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742198733_nr4mr",
+        "page": 2,
+        "text": "سواء",
+        "rects": [
+            {
+                "x": 45.08,
+                "y": 32.75,
+                "w": 4.16,
+                "h": 2.04
+            }
+        ],
+        "notes": {
+            "meaning": "استوى",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742210289_2ai7t",
+        "page": 2,
+        "text": "أسر",
+        "rects": [
+            {
+                "x": 35.13,
+                "y": 32.27,
+                "w": 3.35,
+                "h": 2.51
+            }
+        ],
+        "notes": {
+            "meaning": "كتم - أخفى",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742221579_eihcd",
+        "page": 2,
+        "text": "جهر",
+        "rects": [
+            {
+                "x": 72.59,
+                "y": 36.36,
+                "w": 4.26,
+                "h": 2.04
+            }
+        ],
+        "notes": {
+            "meaning": "أفصح",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742231832_d66mn",
+        "page": 2,
+        "text": "مستخف",
+        "rects": [
+            {
+                "x": 55.63,
+                "y": 36.28,
+                "w": 7.11,
+                "h": 2.2
+            }
+        ],
+        "notes": {
+            "meaning": "مستتر",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742248861_0dlj1",
+        "page": 2,
+        "text": "سارب",
+        "rects": [
+            {
+                "x": 44.16,
+                "y": 35.97,
+                "w": 6.19,
+                "h": 2.51
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "اسم منقوص"
+        }
+    },
+    {
+        "id": "ann_1789742264190_7wdyk",
+        "page": 2,
+        "text": "إن الله لا يغير",
+        "rects": [
+            {
+                "x": 34.72,
+                "y": 39.34,
+                "w": 9.34,
+                "h": 2.67
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "سنة إلهية في التغيير"
+        }
+    },
+    {
+        "id": "ann_1789742293439_v00la",
+        "page": 2,
+        "text": "ما",
+        "rects": [
+            {
+                "x": 79.7,
+                "y": 42.8,
+                "w": 2.64,
+                "h": 2.43
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "موصوله مبنية في محل مفعول به",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742313807_bovnm",
+        "page": 2,
+        "text": "ما",
+        "rects": [
+            {
+                "x": 66.6,
+                "y": 43.11,
+                "w": 1.83,
+                "h": 2.12
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "موصولة مبنية في محل نصب مفعول به",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742331824_av400",
+        "page": 2,
+        "text": "لا",
+        "rects": [
+            {
+                "x": 40.51,
+                "y": 43.19,
+                "w": 2.13,
+                "h": 1.73
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "لا النافية للجنس"
+        }
+    },
+    {
+        "id": "ann_1789742343204_lq979",
+        "page": 2,
+        "text": "مردّ",
+        "rects": [
+            {
+                "x": 36.75,
+                "y": 43.03,
+                "w": 3.76,
+                "h": 2.12
+            }
+        ],
+        "notes": {
+            "meaning": "دافع",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742358771_x6ymg",
+        "page": 2,
+        "text": "ما",
+        "rects": [
+            {
+                "x": 82.84,
+                "y": 46.41,
+                "w": 2.94,
+                "h": 2.28
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "ما النافية"
+        }
+    },
+    {
+        "id": "ann_1789742376953_xiyp6",
+        "page": 2,
+        "text": "الذي",
+        "rects": [
+            {
+                "x": 55.63,
+                "y": 46.17,
+                "w": 3.65,
+                "h": 2.51
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "اسم موصول مبني في محل رفع خبر",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742393687_6gq8j",
+        "page": 2,
+        "text": "الثقال",
+        "rects": [
+            {
+                "x": 58.88,
+                "y": 49.79,
+                "w": 4.57,
+                "h": 2.28
+            }
+        ],
+        "notes": {
+            "meaning": "المحملة بالمطر",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742408113_tkdjj",
+        "page": 2,
+        "text": "خيفته",
+        "rects": [
+            {
+                "x": 68.93,
+                "y": 53.48,
+                "w": 4.77,
+                "h": 2.36
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "اسم هيئة"
+        }
+    },
+    {
+        "id": "ann_1789742421322_z1m4v",
+        "page": 2,
+        "text": "الواو",
+        "rects": [
+            {
+                "x": 84.26,
+                "y": 57.25,
+                "w": 1.42,
+                "h": 1.88
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "واو الحال"
+        }
+    },
+    {
+        "id": "ann_1789742447670_jd948",
+        "page": 2,
+        "text": "هم",
+        "rects": [
+            {
+                "x": 81.62,
+                "y": 57.09,
+                "w": 2.64,
+                "h": 2.36
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "ضمير منفصل مبني في محل رفع مبتدا",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742503964_q5e0s",
+        "page": 2,
+        "text": "هم يجادلون",
+        "rects": [
+            {
+                "x": 72.89,
+                "y": 56.77,
+                "w": 8.63,
+                "h": 2.83
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "فعل مضارع مرفوع وعلامة رفعه ثبوت النون لأنه من الافعال الخمسة والفاعل ضمير مستتر تقديره هم والجملة الفعلية مبنية في محل رفع خبر المبتدأ والجملة الإسمية مبنية في محل نصب حال",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742527090_hn8vb",
+        "page": 2,
+        "text": "يدعون",
+        "rects": [
+            {
+                "x": 80.51,
+                "y": 59.99,
+                "w": 5.18,
+                "h": 2.67
+            }
+        ],
+        "notes": {
+            "meaning": "يعبدون",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742597951_18aku",
+        "page": 2,
+        "text": "كباسط كفيه إلى الماء ليبلغ فاه وما هو ببالغه",
+        "rects": [
+            {
+                "x": 34.72,
+                "y": 60.15,
+                "w": 20.2,
+                "h": 2.98
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": {
+                "mushabbah": "من يدعو غير الله",
+                "mushabbahBih": "صورة العطشان الذي مد كفه الى الماء طالباً الوصول الى فمه ولا يستجيب",
+                "tool": "الكاف",
+                "wajh": ""
+            },
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742630501_sjt80",
+        "page": 2,
+        "text": "ما",
+        "rects": [
+            {
+                "x": 69.75,
+                "y": 64,
+                "w": 2.94,
+                "h": 2.04
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "ما النافية"
+        }
+    },
+    {
+        "id": "ann_1789742643930_c02t5",
+        "page": 2,
+        "text": "إلا",
+        "rects": [
+            {
+                "x": 57.46,
+                "y": 63.76,
+                "w": 3.05,
+                "h": 2.43
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "أداة حصر ملغاة"
+        }
+    },
+    {
+        "id": "ann_1789742657286_z3hov",
+        "page": 2,
+        "text": "يسجد",
+        "rects": [
+            {
+                "x": 38.58,
+                "y": 63.84,
+                "w": 4.37,
+                "h": 2.36
+            }
+        ],
+        "notes": {
+            "meaning": "يخضع",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742679322_jxysw",
+        "page": 2,
+        "text": "طوعاً",
+        "rects": [
+            {
+                "x": 65.28,
+                "y": 67.06,
+                "w": 4.26,
+                "h": 2.51
+            }
+        ],
+        "notes": {
+            "meaning": "انقياداً سهلاً",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742690987_s5mlt",
+        "page": 2,
+        "text": "كرهاً",
+        "rects": [
+            {
+                "x": 60.71,
+                "y": 67.06,
+                "w": 3.96,
+                "h": 2.28
+            }
+        ],
+        "notes": {
+            "meaning": "رغماً عنه",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742701665_o8x6s",
+        "page": 2,
+        "text": "الغدو",
+        "rects": [
+            {
+                "x": 48.83,
+                "y": 66.98,
+                "w": 4.57,
+                "h": 2.67
+            }
+        ],
+        "notes": {
+            "meaning": "أول النهار",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742713780_q3xol",
+        "page": 2,
+        "text": "الأصال",
+        "rects": [
+            {
+                "x": 42.23,
+                "y": 67.53,
+                "w": 4.87,
+                "h": 1.73
+            }
+        ],
+        "notes": {
+            "meaning": "أخر النهار",
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742728379_cm7lh",
+        "page": 2,
+        "text": "من",
+        "rects": [
+            {
+                "x": 80.1,
+                "y": 71.07,
+                "w": 2.84,
+                "h": 2.28
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "أسلوب استفهام"
+        }
+    },
+    {
+        "id": "ann_1789742753237_jxndg",
+        "page": 2,
+        "text": "الله",
+        "rects": [
+            {
+                "x": 58.78,
+                "y": 70.91,
+                "w": 2.64,
+                "h": 1.88
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": "لفظ الجلالة مبتدأ مرفوع وعلامة رفعه الضمة",
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742781170_8fmsz",
+        "page": 2,
+        "text": "نص محدد",
+        "rects": [
+            {
+                "x": 54.42,
+                "y": 70.83,
+                "w": 1.32,
+                "h": 1.96
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": null,
+            "general": "استفهام انكاري, غرضه انكار عليهم اتخاذ اله معبود"
+        }
+    },
+    {
+        "id": "ann_1789742823526_ue5q3",
+        "page": 2,
+        "text": "قل هل يستوي الأعمى والبصير",
+        "rects": [
+            {
+                "x": 40.41,
+                "y": 73.97,
+                "w": 23.86,
+                "h": 2.67
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": {
+                "mushabbah": "الكافر - المؤمن",
+                "mushabbahBih": "الأعمى - البصير",
+                "tool": "",
+                "wajh": ""
+            },
+            "general": null
+        }
+    },
+    {
+        "id": "ann_1789742846309_0pu94",
+        "page": 2,
+        "text": "هل تستوي الظلمات والنور",
+        "rects": [
+            {
+                "x": 66.9,
+                "y": 77.74,
+                "w": 18.27,
+                "h": 2.04
+            }
+        ],
+        "notes": {
+            "meaning": null,
+            "irab": null,
+            "mohassanatLafziya": null,
+            "mohassanatManawiya": null,
+            "tashbeeh": {
+                "mushabbah": "الكفر - الإيمان",
+                "mushabbahBih": "الظلمات - النور",
+                "tool": "",
+                "wajh": ""
+            },
+            "general": null
+        }
+    }
+]

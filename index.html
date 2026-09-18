@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="theme-color" content="#f7f8fc">
+    <meta name="description" content="كتاب اللغة العربية التفاعلي">
+
+    <title>كتاب اللغة العربية التفاعلي</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Cairo:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- ================= HEADER ================= -->
+
+    <header class="topbar">
+
+        <div class="brand">
+            <div class="brand-icon">أ</div>
+
+            <div class="brand-text">
+                <h1>كتاب اللغة العربية</h1>
+                <span>الكتاب التفاعلي</span>
+            </div>
+        </div>
+
+        <div class="header-actions">
+
+            <button
+                class="icon-button"
+                id="searchButton"
+                type="button"
+                aria-label="البحث"
+                title="البحث"
+            >
+                ⌕
+            </button>
+
+            <button
+                class="icon-button"
+                id="themeButton"
+                type="button"
+                aria-label="تغيير المظهر"
+                title="تغيير المظهر"
+            >
+                <span id="themeIcon">☾</span>
+            </button>
+
+            <button
+                class="print-button"
+                id="printButton"
+                type="button"
+            >
+                <span>♧</span>
+                <span>طباعة الملاحظات</span>
+            </button>
+
+            <button
+                class="editor-button"
+                id="editorButton"
+                type="button"
+            >
+                <span>✎</span>
+                <span>وضع التحرير</span>
+            </button>
+
+        </div>
+
+    </header>
+
+
+    <!-- ================= SEARCH ================= -->
+
+    <div class="search-panel" id="searchPanel">
+
+        <div class="search-inner">
+
+            <div class="search-input-wrapper">
+
+                <span class="search-symbol">⌕</span>
+
+                <input
+                    type="search"
+                    id="searchInput"
+                    placeholder="ابحث في الملاحظات..."
+                    autocomplete="off"
+                >
+
+                <button
+                    id="closeSearch"
+                    class="search-close"
+                    type="button"
+                    aria-label="إغلاق البحث"
+                >
+                    ×
+                </button>
+
+            </div>
+
+            <div
+                id="searchResults"
+                class="search-results"
+            ></div>
+
+        </div>
+
+    </div>
+
+
+    <!-- ================= MAIN ================= -->
+
+    <main class="app">
+
+        <section class="lesson-header">
+
+            <div>
+
+                <div class="breadcrumb">
+                    <span>اللغة العربية</span>
+                    <span>›</span>
+                    <span>الدرس</span>
+                </div>
+
+                <h2>نص الدرس</h2>
+
+                <p>
+                    اقرأ النص وتفاعل مع الكلمات والعبارات المميزة.
+                </p>
+
+            </div>
+
+            <div class="lesson-meta">
+
+                <div class="meta-item">
+                    <strong id="pageNumber">1</strong>
+                    <span>الصفحة</span>
+                </div>
+
+                <div class="meta-divider"></div>
+
+                <div class="meta-item">
+                    <strong id="annotationCount">0</strong>
+                    <span>ملاحظة</span>
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ================= FILTERS ================= -->
+
+        <section
+            class="filters"
+            aria-label="تصفية الملاحظات"
+        >
+
+            <button
+                class="filter active"
+                data-filter="all"
+                type="button"
+            >
+                الكل
+            </button>
+
+            <button
+                class="filter"
+                data-filter="meaning"
+                type="button"
+            >
+                📖 المعاني
+            </button>
+
+            <button
+                class="filter"
+                data-filter="irab"
+                type="button"
+            >
+                🔤 الإعراب
+            </button>
+
+            <button
+                class="filter"
+                data-filter="mohassanatLafziya"
+                type="button"
+            >
+                ✨ المحسنات اللفظية
+            </button>
+
+            <button
+                class="filter"
+                data-filter="mohassanatManawiya"
+                type="button"
+            >
+                💭 المحسنات المعنوية
+            </button>
+
+            <button
+                class="filter"
+                data-filter="tashbeeh"
+                type="button"
+            >
+                🎨 التشبيهات
+            </button>
+
+        </section>
+
+
+        <!-- ================= READER ================= -->
+
+        <section class="reader-area">
+
+            <button
+                class="page-arrow previous"
+                id="previousPage"
+                type="button"
+                aria-label="الصفحة السابقة"
+            >
+                ‹
+            </button>
+
+            <div class="page-wrapper">
+
+                <div
+                    class="book-page"
+                    id="bookPage"
+                >
+
+                    <img
+                        id="pageImage"
+                        src="pages/page-1.webp"
+                        alt="صفحة من كتاب اللغة العربية"
+                        draggable="false"
+                    >
+
+                    <svg
+                        id="annotationLayer"
+                        class="annotation-layer"
+                        viewBox="0 0 100 100"
+                        preserveAspectRatio="none"
+                        aria-hidden="true"
+                    ></svg>
+
+                </div>
+
+            </div>
+
+            <button
+                class="page-arrow next"
+                id="nextPage"
+                type="button"
+                aria-label="الصفحة التالية"
+            >
+                ›
+            </button>
+
+        </section>
+
+
+        <!-- ================= PAGE NAVIGATION ================= -->
+
+        <section class="page-navigation">
+
+            <button
+                class="navigation-button"
+                id="previousPageBottom"
+                type="button"
+            >
+                <span>→</span>
+                السابقة
+            </button>
+
+            <div class="page-indicator">
+
+                <span id="currentPage">1</span>
+                <span class="page-separator">/</span>
+                <span id="totalPages">2</span>
+
+            </div>
+
+            <button
+                class="navigation-button"
+                id="nextPageBottom"
+                type="button"
+            >
+                التالية
+                <span>←</span>
+            </button>
+
+        </section>
+
+    </main>
+
+
+    <!-- ================= ANNOTATION POPUP ================= -->
+
+    <div
+        class="overlay"
+        id="overlay"
+    ></div>
+
+    <aside
+        class="annotation-card"
+        id="annotationCard"
+        aria-hidden="true"
+    >
+
+        <button
+            class="card-close"
+            id="closeCard"
+            type="button"
+            aria-label="إغلاق"
+        >
+            ×
+        </button>
+
+        <div
+            class="card-content"
+            id="cardContent"
+        ></div>
+
+    </aside>
+
+
+    <!-- ================= PRINT VIEW ================= -->
+
+    <div
+        class="print-view"
+        id="printView"
+    ></div>
+
+
+    <!-- ================= EDITOR ================= -->
+
+    <aside
+        class="editor-panel"
+        id="editorPanel"
+        aria-hidden="true"
+    >
+
+        <div class="editor-header">
+
+            <div>
+                <span class="editor-eyebrow">
+                    EDITOR MODE
+                </span>
+
+                <h2>إضافة ملاحظة</h2>
+            </div>
+
+            <button
+                class="editor-close"
+                id="editorClose"
+                type="button"
+                aria-label="إغلاق وضع التحرير"
+            >
+                ×
+            </button>
+
+        </div>
+
+
+        <div class="editor-body">
+
+            <!-- STEP 1 -->
+
+            <div class="editor-step">
+
+                <div class="step-number">1</div>
+
+                <div class="step-content">
+
+                    <h3>حدد النص</h3>
+
+                    <p>
+                        اسحب فوق الكلمة أو العبارة في الصفحة.
+                    </p>
+
+                    <div
+                        class="selection-preview"
+                        id="selectionPreview"
+                    >
+                        لم يتم تحديد أي نص
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- STEP 2 -->
+
+            <div class="editor-step">
+
+                <div class="step-number">2</div>
+
+                <div class="step-content">
+
+                    <h3>نوع الملاحظة</h3>
+
+                    <div class="editor-types">
+
+                        <button
+                            class="editor-type"
+                            data-type="meaning"
+                            type="button"
+                        >
+                            <span>📖</span>
+                            المعنى
+                        </button>
+
+                        <button
+                            class="editor-type"
+                            data-type="irab"
+                            type="button"
+                        >
+                            <span>🔤</span>
+                            الإعراب
+                        </button>
+
+                        <button
+                            class="editor-type"
+                            data-type="mohassanatLafziya"
+                            type="button"
+                        >
+                            <span>✨</span>
+                            محسن لفظي
+                        </button>
+
+                        <button
+                            class="editor-type"
+                            data-type="mohassanatManawiya"
+                            type="button"
+                        >
+                            <span>💭</span>
+                            محسن معنوي
+                        </button>
+
+                        <button
+                            class="editor-type"
+                            data-type="tashbeeh"
+                            type="button"
+                        >
+                            <span>🎨</span>
+                            تشبيه
+                        </button>
+
+                        <button
+                            class="editor-type"
+                            data-type="general"
+                            type="button"
+                        >
+                            <span>💡</span>
+                            أخرى
+                        </button>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- CONTENT -->
+
+            <div class="step-content editor-content-step">
+
+                <h3>المحتوى</h3>
+
+                <div id="editorForm">
+
+                    <textarea
+                        id="editorText"
+                        class="editor-textarea"
+                        placeholder="اختر نوع الملاحظة أولاً..."
+                    ></textarea>
+
+                </div>
+
+            </div>
+
+
+            <!-- ACTIONS -->
+
+            <div class="editor-actions">
+
+                <button
+                    class="editor-save"
+                    id="saveAnnotation"
+                    type="button"
+                >
+                    حفظ الملاحظة
+                </button>
+
+                <button
+                    class="editor-export"
+                    id="exportAnnotations"
+                    type="button"
+                >
+                    تصدير JSON
+                </button>
+
+            </div>
+
+
+            <div
+                class="editor-status"
+                id="editorStatus"
+                aria-live="polite"
+            ></div>
+
+        </div>
+
+    </aside>
+
+
+    <!-- ================= EDITOR BACKDROP ================= -->
+
+    <div
+        class="editor-backdrop"
+        id="editorBackdrop"
+        aria-hidden="true"
+    ></div>
+
+
+    <script src="script.js" defer></script>
+
+</body>
+</html>
